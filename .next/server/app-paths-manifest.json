@@ -1,0 +1,9 @@
+{
+  "/pricing/page": "app/pricing/page.js",
+  "/page": "app/page.js",
+  "/auth/callback/page": "app/auth/callback/page.js",
+  "/merch/page": "app/merch/page.js",
+  "/api/sign-image/route": "app/api/sign-image/route.js",
+  "/api/auth/[kindeAuth]/route": "app/api/auth/[kindeAuth]/route.js",
+  "/update-profile/page": "app/update-profile/page.js"
+}
