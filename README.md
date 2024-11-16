@@ -2,29 +2,6 @@
 
 ![Demo App](/public/demo-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/mduqkHlJujA)
-
-Some Features:
-
--   ⚛️ Tech Stack: Next.js 14, TypeScript, Tailwind CSS, Prisma, PostgreSQL, Stripe
--   🔐 Authentication with Kinde Auth
--   💸 Monthly and Annually Subscriptions with Stripe.
--   💰 One Time Payments with Stripe
--   💵 Building a Stripe Billing Portal
--   🛒 E-Commerce Store
--   ✉ Sending "Successful Payment" Emails to Users
--   ✍️ Creating Posts
--   💬 Commenting on Posts
--   ❤️ Liking Posts
--   🔒 Secret Admin Dashboard
--   📝 Data Aggregation with Prisma
--   🖼️ Edit Profile
--   📷 Image/Video Uploads using Cloudinary
--   💙 Awesome Landing Page
--   🌐 Deployment
--   👀 And Millions of Other Cool Features
--   ✅ This is a lot of work. Support me by subscribing to the [Youtube Channel](https://www.youtube.com/@asaprogrammer_)
-
 ### Setup .env file
 
 ```js
